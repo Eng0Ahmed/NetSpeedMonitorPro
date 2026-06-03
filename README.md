@@ -30,3 +30,31 @@ The application automatically checks for dependencies, but you can install the r
 
 ```bash
 pip install psutil speedtest-cli
+Running the application:
+Download NetSpeed.pyw or the provided .zip release.
+
+Double-click to run. It runs silently and efficiently in the background.
+
+Right-click the floating widget to access the menu (Speed Test, Auto-Run, About, Exit).
+
+📜 License & Copyright
+Developer: Eng Ahmed Abdelaziz
+
+Version: 1.0.0
+
+Copyright (c) 2026 Eng Ahmed Abdelaziz. All rights reserved.
+
+Licensed under the MIT License. You are free to copy, modify, and redistribute this software as long as the original copyright notice and credit to the author remain intact.
+
+🌍 نظرة عامة (Arabic Description)
+برنامج احترافي لمراقبة وقياس سرعة الإنترنت بشكل حي ومستمر من سطح المكتب.
+
+أهم المميزات:
+
+مراقبة حية: واجهة عائمة شفافة تعرض سرعة الرفع والتحميل اللحظية دون إعاقة الاستخدام.
+
+عداد سرعة تفاعلي: أداة قياس للسرعة القصوى (Speed Test) مبنية هندسياً لتعكس السرعة بمؤشر ميكانيكي يتحرك بنعومة فائقة ويتغير لونه حسب نوع القياس.
+
+تكامل مع النظام: إمكانية التشغيل التلقائي مع الويندوز، وحفظ آخر مكان للنافذة على الشاشة تلقائياً.
+
+خفيف ومستقل: يعمل في الخلفية بصمت تام دون استهلاك موارد الجهاز.
