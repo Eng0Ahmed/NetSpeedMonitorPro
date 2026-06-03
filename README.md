@@ -19,7 +19,7 @@ An advanced, lightweight Windows desktop widget built with Python and Tkinter. I
 
 ## 📸 Preview
 *(Add your beautiful screenshots or a short GIF here to show the widget in action)*
-- `![Live Monitor Widget](preview_monitor.png)`
+- [`![Live Monitor Widget](preview_monitor.png)`](https://github.com/Eng0Ahmed/NetSpeedMonitorPro/blob/main/Screenshot%202026-06-03%20115842.png)
 - `![Active Speedometer](preview_speedtest.png)`
 
 ---
